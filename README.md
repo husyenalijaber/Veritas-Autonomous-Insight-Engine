@@ -1,7 +1,6 @@
 # 🏆 Veritas: Autonomous Insight Engine
 
 ![Veritas Multi-Agent Workflow Diagram](assets/veritas_workflow.png)
-*(Note: Please ensure the image file `veritas_workflow.png` is uploaded to your `assets/` folder in this repository, or replace the path with the direct image URL.)*
 
 > **Veritas** is a robust multi-agent autonomous research system designed to combat LLM Hallucinations and misinformation in high-stakes domains.
 >
